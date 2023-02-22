@@ -1,10 +1,9 @@
-import { useState } from 'react'
-
+import { AdviceApi } from "./component/AdviceAPI"
 function App() {
 
   return (
     <div>
-      <h1>App works</h1>
+      <AdviceApi/>
     </div>
   )
 }
