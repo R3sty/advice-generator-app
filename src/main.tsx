@@ -5,6 +5,8 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <App />
+    <body className="h-screen w-screen font-Manrope bg-darkBlue">
+      <App />
+    </body>
   </React.StrictMode>,
 )

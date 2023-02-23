@@ -6,13 +6,26 @@ module.exports = {
 			mobile: '375px',
 		},
 		colors: {
-			red: '#FF0000',
+			neonGreen: '#53FFAA',
+			lightCyan: '#CEE3E9',
+			darkGrayishBlue: '#313A48',
+			grayishBlue: '#4F5D74',
+			darkBlue: '#202733',
 		},
-		fontFamily: {},
+		fontFamily: {
+			Manrope: ['Manrope', 'sans-serif'],
+		},
 		fontSize: {
-			l: ['40px', { lineHeight: '40px', fontWeight: 700 }],
+			xl: ['28px', { lineHeight: '38px', fontWeight: 800 }],
+			l: ['24px', { lineHeight: '33px', fontWeight: 800 }],
+			m: ['13px', { lineHeight: '18px', fontWeight: 800 }],
+			s: ['11px', { lineHeight: '15px', fontWeight: 800 }],
 		},
-		extend: {},
+		extend: {
+			letterSpacing: {
+				wide: '0.2160725em',
+			},
+		},
 	},
 	plugins: [],
 };

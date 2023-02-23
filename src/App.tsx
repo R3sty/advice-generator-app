@@ -1,11 +1,12 @@
-import { AdviceApi } from "./component/AdviceAPI"
+import AdviceBox from "./component/AdviceBox";
+
 function App() {
 
   return (
-    <div>
-      <AdviceApi/>
+    <div className="flex justify-center items-center h-full">
+      <AdviceBox/>
     </div>
   )
 }
 
-export default App
+export default App;
