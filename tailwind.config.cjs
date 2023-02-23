@@ -3,7 +3,6 @@ module.exports = {
 	theme: {
 		screens: {
 			desktop: '1440px',
-			mobile: '375px',
 		},
 		colors: {
 			neonGreen: '#53FFAA',

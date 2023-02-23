@@ -28,38 +28,27 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/screenshot-desktop.png)
+![](./public/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [https://github.com/R3sty/advice-generator-app]
+- Live Site URL: [https://r3sty.github.io/advice-generator-app/]
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
+- [React](https://reactjs.org/)
+- [Vitjs](https://vitejs.dev/)
 - [TailwindCSS](https://tailwindcss.com/) - For styles
 
 ### What I learned
 
-### Continued development
+This project involved building a simple web application that fetches random advice using Axios and displays it on the screen. The application was built using Typescript and TailwindCSS, which allowed for the use of modern syntax and responsive styling.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+While building the project, I learned how to use Axios to fetch data from an external API and how to work with Typescript syntax. Additionally, I gained a better understanding of positioning elements on the screen and adding shadows on hover using TailwindCSS.
 
 ## Author
 
 - Frontend Mentor - [@R3sty](https://www.frontendmentor.io/profile/R3sty)
 - Twitter - [@yourusername](https://twitter.com/R3XIST)
-
-## Acknowledgments
